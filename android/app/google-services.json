@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "399651172004",
+    "firebase_url": "https://geology-and-mining-default-rtdb.firebaseio.com",
+    "project_id": "geology-and-mining",
+    "storage_bucket": "geology-and-mining.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399651172004:android:272a145f22eb8b31098031",
+        "android_client_info": {
+          "package_name": "com.devdip.glmdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399651172004-nlcuviuv3t8dpd2kmjnt8gimfitfao1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devdip.glmdiary",
+            "certificate_hash": "d5c514165eeb9ce74ac6199e4f99780ab74bfb6f"
+          }
+        },
+        {
+          "client_id": "399651172004-7q877ta81rl9la7d6a6obnvhg6t9n429.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByF28b5XZZ1BfvOfbxd6nqNZdLp2CfJMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399651172004-7q877ta81rl9la7d6a6obnvhg6t9n429.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399651172004:android:171a1784a5e73ca8098031",
+        "android_client_info": {
+          "package_name": "com.example.geology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399651172004-7q877ta81rl9la7d6a6obnvhg6t9n429.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByF28b5XZZ1BfvOfbxd6nqNZdLp2CfJMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399651172004-7q877ta81rl9la7d6a6obnvhg6t9n429.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
